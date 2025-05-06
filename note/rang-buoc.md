@@ -63,3 +63,4 @@ ALTER TABLE TABLENAME
 ADD CONSTRAINT chkTABLENAME_ATTRIBUTESNAME
 CHECK (ATTRIBUTENAME BETWEEN X AND Y)
 ```
+- Trước khi xoá hết table ta nên xoá hết rằng buộc khoá ngoại trước
